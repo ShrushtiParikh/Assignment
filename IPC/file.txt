@@ -1,0 +1,2 @@
+HI This is File 1 data being copied to file 2
+Hello How are you
